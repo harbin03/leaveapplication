@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Harbinder
+Build-Jdk: 12.0.1
+Implementation-Title: laps1
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: sg.edu.nus
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/laps1
+Created-By: Maven Integration for Eclipse
+
